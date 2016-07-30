@@ -7,8 +7,8 @@ Coursera Courses
   1. Data Communication and Visualization with Tableau
   2. Mastering Data Analysis in Excel
   
-Edx Courses
+Edx Course
   1. Data Analysis: Visualization and Dashboard Design
 
-Udacity Courses
+Udacity Course
   1.  Intro to Java Programming
